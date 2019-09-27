@@ -1,0 +1,36 @@
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+body {
+	margin: 25px;
+	text-align: center;
+	font-family: 'Noto Serif', serif;
+	color: #172713;
+	background-color: #ebd999
+}
+
+#strategyDisplay {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+a {
+	margin: 25px;
+	font-family: 'Noto Serif', serif;
+/* 	filter: drop-shadow(0 0 0.5rem #f5f5b8); */
+}
+
+/* .fixed {
+  height: 50px;
+  width: 100px;
+} */
+
+footer {
+	text-align: center;
+	font-size: 10px;
+	padding: 5px;
+}
